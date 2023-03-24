@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "./dist/",
+        // "watch": true,
+        "strictNullChecks": true
+    },
+    "include": ["src"]
+}
